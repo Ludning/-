@@ -1,0 +1,14 @@
+E:\C#Project\Server\DummyClient\bin\Release\net8.0\DummyClient.exe
+E:\C#Project\Server\DummyClient\bin\Release\net8.0\DummyClient.deps.json
+E:\C#Project\Server\DummyClient\bin\Release\net8.0\DummyClient.runtimeconfig.json
+E:\C#Project\Server\DummyClient\bin\Release\net8.0\DummyClient.dll
+E:\C#Project\Server\DummyClient\bin\Release\net8.0\DummyClient.pdb
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\DummyClient.AssemblyInfoInputs.cache
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\DummyClient.AssemblyInfo.cs
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\DummyClient.csproj.CoreCompileInputs.cache
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\DummyClient.dll
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\refint\DummyClient.dll
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\DummyClient.pdb
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\DummyClient.genruntimeconfig.cache
+E:\C#Project\Server\DummyClient\obj\Release\net8.0\ref\DummyClient.dll

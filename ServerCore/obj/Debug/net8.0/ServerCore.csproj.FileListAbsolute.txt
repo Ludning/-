@@ -1,0 +1,11 @@
+E:\C#Project\Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+E:\C#Project\Server\ServerCore\bin\Debug\net8.0\ServerCore.dll
+E:\C#Project\Server\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+E:\C#Project\Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll

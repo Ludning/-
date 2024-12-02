@@ -1,0 +1,14 @@
+E:\C#Project\Server\Server\bin\Release\net8.0\Server.exe
+E:\C#Project\Server\Server\bin\Release\net8.0\Server.deps.json
+E:\C#Project\Server\Server\bin\Release\net8.0\Server.runtimeconfig.json
+E:\C#Project\Server\Server\bin\Release\net8.0\Server.dll
+E:\C#Project\Server\Server\bin\Release\net8.0\Server.pdb
+E:\C#Project\Server\Server\obj\Release\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Project\Server\Server\obj\Release\net8.0\Server.AssemblyInfoInputs.cache
+E:\C#Project\Server\Server\obj\Release\net8.0\Server.AssemblyInfo.cs
+E:\C#Project\Server\Server\obj\Release\net8.0\Server.csproj.CoreCompileInputs.cache
+E:\C#Project\Server\Server\obj\Release\net8.0\Server.dll
+E:\C#Project\Server\Server\obj\Release\net8.0\refint\Server.dll
+E:\C#Project\Server\Server\obj\Release\net8.0\Server.pdb
+E:\C#Project\Server\Server\obj\Release\net8.0\Server.genruntimeconfig.cache
+E:\C#Project\Server\Server\obj\Release\net8.0\ref\Server.dll
